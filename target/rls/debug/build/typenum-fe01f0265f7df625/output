@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/idealmine/Desktop/projects/zero2prod/target/rls/debug/build/typenum-fe01f0265f7df625/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/Users/idealmine/Desktop/projects/zero2prod/target/rls/debug/build/typenum-fe01f0265f7df625/out/op.rs
